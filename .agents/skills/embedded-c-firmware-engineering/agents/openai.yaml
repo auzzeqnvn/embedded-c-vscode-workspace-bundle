@@ -1,0 +1,3 @@
+interface:
+  display_name: "Embedded C Firmware Engineering"
+  short_description: "Clean Code + MISRA-oriented firmware engineering for STM32/GD32"
