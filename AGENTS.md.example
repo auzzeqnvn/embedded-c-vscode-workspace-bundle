@@ -1,0 +1,9 @@
+# Project agent instructions
+
+For Embedded C, STM32, GD32, bare-metal, HAL/SPL/CMSIS, or RTOS firmware tasks, use the `embedded-c-firmware-engineering` skill when relevant.
+
+Before editing firmware:
+- inspect the existing architecture and build system
+- preserve project-specific HAL/SPL/RTOS conventions
+- prefer the smallest safe change
+- run relevant build/static-analysis checks after modifications when available
